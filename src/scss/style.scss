@@ -1,0 +1,11 @@
+@import "partials/reset";
+@import "partials/fonts";
+@import "partials/variable";
+@import "partials/mixin";
+@import "partials/icomoon";
+
+
+body{
+	color: $red;
+	background:gray;
+}
